@@ -1,12 +1,12 @@
 ###Python HTML Crawler 
-#####CS 578 project
+#####CS 578 indexer
 ===========
 
 ####About:
 
 This project collects popular third party tracking javascript on the web.
 
-The Python script takes either a single HTTP address, or a file with a list of addresses. The script will then output the javascript on the page(s). If given a file with a list of addresses, a sorted list is outputted.
+The Python script takes either a single HTTP address, or a file with a list of addresses. The script will then output the javascript found on the page(s). If given a file with a list of addresses, a sorted list is outputted.
 
 ####Usage:
 
@@ -28,12 +28,6 @@ For centos/fedora:
 ```
 yum -y install python-pip
 pip install tldextract
-```
-
-#####Collected Data
-The data I collected from running this script, and their corresponding indexed addresses are located under
-```
-src/domain-lists
 ```
 
 #####Technical Stuff
