@@ -1,5 +1,5 @@
-###Python HTML Crawler 
-#####CS 578 indexer
+###Python HTML Indexer
+#####CS 578
 ===========
 
 ####About:
