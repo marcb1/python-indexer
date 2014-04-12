@@ -21,7 +21,7 @@ To index a list of sites from a file
 src/main-crawler.py -r file_name
 ```
 
-file must be formatted as follow
+file must be formatted as follows:
 ```
 http(s)://domain.tld
 http(s)://domain.tld
